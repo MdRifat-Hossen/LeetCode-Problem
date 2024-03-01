@@ -10,5 +10,6 @@
     <li><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></li>
     <li><a href="https://leetcode.com/problems/balanced-binary-tree/">110. Balanced Binary Tree</a></li>
     <li><a href="https://leetcode.com/problems/maximum-odd-binary-number/">2864. Maximum Odd Binary Number</a></li>
+    <li><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validt BST</a></li>
   </ol>
 </details>
